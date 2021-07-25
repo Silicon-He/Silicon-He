@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Silicon-He ,a ordinary student at SHU
 - 👀 I’m interested in python/golang
 - 🌱 I’m currently learning gRPC/gin
-- 📫 How to reach me hexinze.silicon@bytedance.com
+- 📫 Reach me: hexinze.silicon@bytedance.com
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Silicon-He&show_icons=true">
 
